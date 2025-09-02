@@ -30,15 +30,9 @@
 
 ## 🍬 Let's Connect!
 <p align="center">
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-ffb6c1?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-ffb6c1?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
