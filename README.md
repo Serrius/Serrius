@@ -23,8 +23,8 @@
 
 ## 🐰 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serrius&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serrius&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Serrius&show_icons=true&hide_border=true&bg_color=ffb6c1,ffc0cb,e6e6fa,ffffff&title_color=ff69b4&icon_color=ff69b4&text_color=4b0082" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=Serrius&hide_border=true&background=ffb6c1,ffc0cb,e6e6fa,ffffff&ring=ff69b4&fire=ff69b4&currStreakLabel=4b0082&sideLabels=4b0082&dates=4b0082" alt="Streak Stats" height="180"/>
 </p>
 
 ---
