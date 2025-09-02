@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi there! I'm <Your Name> (๑˃ᴗ˂)ﻭ ✨</h1>
+<h1 align="center">🌸 Hi there! I'm Kelsey (๑˃ᴗ˂)ﻭ ✨</h1>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZmaGx2Zjh5b2YxazNxNXg2N2I5aHVyeW1lZXNqOXJiNzd0eWh0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="180" />
