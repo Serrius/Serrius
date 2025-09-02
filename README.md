@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hi there! I'm <Your Name> (๑˃ᴗ˂)ﻭ ✨</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/IwLHt3J9I5AAAAAi/sanrio-cinnamoroll.gif" width="180" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZmaGx2Zjh5b2YxazNxNXg2N2I5aHVyeW1lZXNqOXJiNzd0eWh0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="180" />
 </p>
 
 ---
@@ -33,11 +33,10 @@
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-ffb6c1?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white&cacheBust=1"/></a>
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/XnUJ9tSkF14AAAAi/hello-kitty-sanrio.gif" width="150"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZmaGx2Zjh5b2YxazNxNXg2N2I5aHVyeW1lZXNqOXJiNzd0eWh0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="150"/>
 </p>
 
 ---
